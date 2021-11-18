@@ -70,8 +70,3 @@ Project Demo Video - https://www.youtube.com/watch?v=jvwVc1S0qDo&t=23s
 ![Screen Shot 2021-11-18 at 4 42 58 PM](https://user-images.githubusercontent.com/34904900/142501878-dbf3f907-1e6c-4148-aa03-1e309269f821.png)
 
 
-
-
-
-![locust_err](https://user-images.githubusercontent.com/60614362/136077820-fac330ec-d18a-4ef8-ace9-52d339ae7b0f.png)
-
