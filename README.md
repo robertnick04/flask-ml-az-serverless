@@ -15,7 +15,7 @@ Code changes committed to the GitHub repo would trigger automated code testing u
 
 Project Timeline Trello board - https://trello.com/b/1cuoVD4k/azcicd
 
-Project Timeline Spreadheet - https://github.com/narain2992/ud_az_cicd/blob/main/AzureCICD_project_timeline.xlsx
+Project Timeline Spreadheet - https://github.com/robertnick04/flask-ml-az-serverless/blob/main/AzureCICD_project_timeline.xlsx
 
 Project Demo Video - https://www.youtube.com/watch?v=jvwVc1S0qDo&t=23s
 
