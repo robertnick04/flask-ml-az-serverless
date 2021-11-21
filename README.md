@@ -29,7 +29,7 @@ Az_CICD_Architecture.png![image](https://user-images.githubusercontent.com/34904
 
 Project Timeline Trello board - https://trello.com/b/1cuoVD4k/azcicd
 
-Project Timeline Spreadheet - https://github.com/robertnick04/flask-ml-az-serverless/blob/main/AzureCICD_project_Timeline.xlsx
+Project Timeline Spreadheet - https://github.com/robertnick04/flask-ml-az-serverless/blob/main/AzureCICD_Project_Timeline.xlsx
 
 Project Demo Video - https://www.youtube.com/watch?v=jvwVc1S0qDo&t=23s
 
