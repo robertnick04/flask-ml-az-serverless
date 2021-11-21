@@ -13,6 +13,11 @@ Creating Github Actions
 
 Code changes committed to the GitHub repo would trigger automated code testing using GitHub Actions. A pipeline has been created in Azure DevOps, and the updated code is also automatically tested in Azure DevOps and deployed to the Azure App Service.
 
+### High level Architecure 
+
+Az_CICD_Architecture.png![image](https://user-images.githubusercontent.com/34904900/142768949-611a162c-4713-478c-8e09-3fc06e2bf027.png)
+
+
 Project Timeline Trello board - https://trello.com/b/1cuoVD4k/azcicd
 
 Project Timeline Spreadheet - https://github.com/robertnick04/flask-ml-az-serverless/blob/main/AzureCICD_project_timeline.xlsx
