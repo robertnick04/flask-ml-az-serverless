@@ -4,14 +4,23 @@
 # Overview
 This project titled 'Building a CI/CD Pipeline' project is part of the 'DevOps Engineer for Microsoft Azure' Udacity nanodegree program.
 
-The objective of the python application in this project is to predict housing prices in Boston. 
+The objective of this project is to :
+
+A. Create an Azure pipeline.
+
+B. Deploy the python app (provided in the project resource) in Azure cloud.
+
+C. Test and validate that the pipeline deploys the code changes.
+
 The following steps will implement the task of building a CI/CD pipeline:
+Note: The goal of the python application in this project is to predict housing prices in Boston. 
 
-Deploying the app in Azure Cloud Shell
-Deploying the app as an Azure App Service
-Creating Github Actions
-
-Code changes committed to the GitHub repo would trigger automated code testing using GitHub Actions. A pipeline has been created in Azure DevOps, and the updated code is also automatically tested in Azure DevOps and deployed to the Azure App Service.
+1. Create a github repository and upload the starter code to it.
+2. Create a workflow using Github Actions and deploy the app in Azure cloud.
+3. Create a CI/CD pipeline in Azure DevOps and deploy the app using Azure pipeline in Azure App service.
+4. Run Flask app and validate the results (prediction).
+5. Perform load test using locust and note the results.
+6. Make sure Code changes committed to the GitHub repo would trigger automated code deployment. 
 
 ### High level Architecure 
 
@@ -73,5 +82,11 @@ Project Demo Video - https://www.youtube.com/watch?v=jvwVc1S0qDo&t=23s
 ![Screen Shot 2021-11-18 at 4 43 07 PM](https://user-images.githubusercontent.com/34904900/142501851-ef3f6c5f-496f-48d9-b063-e09fe7e28198.png)
 
 ![Screen Shot 2021-11-18 at 4 42 58 PM](https://user-images.githubusercontent.com/34904900/142501878-dbf3f907-1e6c-4148-aa03-1e309269f821.png)
+
+## Future Improvements
+This project could be enhanced by including the following items:
+- PROD and NON-PROD environments such as Dev, test/stage could be implemented.
+- A policy could be implemented to require Pull requests are reviewed and approved before merging the code to the main branch
+
 
 
